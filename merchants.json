@@ -1,0 +1,138 @@
+{
+  "$schema": "./schema.json",
+  "version": "1.0.0",
+  "merchants": [
+    {
+      "domain": "monos.com",
+      "name": "Monos",
+      "category": "Travel/Luggage",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "gymshark.com",
+      "name": "Gymshark",
+      "category": "Fitness Apparel",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "keenfootwear.com",
+      "name": "KEEN",
+      "category": "Footwear",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "puravidabracelets.com",
+      "name": "Pura Vida",
+      "category": "Accessories",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "everlane.com",
+      "name": "Everlane",
+      "category": "Fashion",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "kytebaby.com",
+      "name": "Kyte Baby",
+      "category": "Baby/Children",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "allbirds.com",
+      "name": "Allbirds",
+      "category": "Footwear",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "fashionnova.com",
+      "name": "Fashion Nova",
+      "category": "Fashion",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "kyliecosmetics.com",
+      "name": "Kylie Cosmetics",
+      "category": "Beauty",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "jeffreestarcosmetics.com",
+      "name": "Jeffree Star Cosmetics",
+      "category": "Beauty",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "stevemadden.com",
+      "name": "Steve Madden",
+      "category": "Footwear",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "glossier.com",
+      "name": "Glossier",
+      "category": "Beauty",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "aloyoga.com",
+      "name": "Alo Yoga",
+      "category": "Activewear",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "fender.com",
+      "name": "Fender",
+      "category": "Music/Instruments",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "rayconglobal.com",
+      "name": "Raycon",
+      "category": "Audio",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "chubbiesshorts.com",
+      "name": "Chubbies",
+      "category": "Apparel",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "brooklinen.com",
+      "name": "Brooklinen",
+      "category": "Home/Bedding",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "awaytravel.com",
+      "name": "Away",
+      "category": "Travel/Luggage",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "outdoorvoices.com",
+      "name": "Outdoor Voices",
+      "category": "Activewear",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "casper.com",
+      "name": "Casper",
+      "category": "Mattresses",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "dollarshaveclub.com",
+      "name": "Dollar Shave Club",
+      "category": "Grooming",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "bollandbranch.com",
+      "name": "Boll & Branch",
+      "category": "Home/Bedding",
+      "protocols": ["ucp"]
+    }
+  ]
+}

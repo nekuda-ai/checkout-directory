@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Checkout Directory Merchants",
+  "description": "Registry of merchants supporting agentic commerce protocols",
+  "type": "object",
+  "required": ["version", "merchants"],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Schema version (semver)"
+    },
+    "merchants": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/merchant"
+      }
+    }
+  },
+  "definitions": {
+    "merchant": {
+      "type": "object",
+      "required": ["domain", "name", "category", "protocols"],
+      "additionalProperties": false,
+      "properties": {
+        "domain": {
+          "type": "string",
+          "pattern": "^[a-zA-Z0-9][a-zA-Z0-9-]{0,61}[a-zA-Z0-9]?\\.[a-zA-Z]{2,}$",
+          "description": "Merchant domain (e.g., example.com)"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 100,
+          "description": "Merchant display name"
+        },
+        "category": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 50,
+          "description": "Merchant category (free-form)"
+        },
+        "protocols": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "enum": ["ucp", "acp"]
+          },
+          "description": "Supported protocols"
+        }
+      }
+    }
+  }
+}

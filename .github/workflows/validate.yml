@@ -1,0 +1,54 @@
+name: Validate merchants.json
+
+on:
+  pull_request:
+    paths:
+      - 'merchants.json'
+  push:
+    branches:
+      - main
+    paths:
+      - 'merchants.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install ajv-cli
+        run: npm install -g ajv-cli ajv-formats
+
+      - name: Validate JSON Schema
+        run: ajv validate -s schema.json -d merchants.json --verbose
+
+      - name: Check for duplicate domains
+        run: |
+          DUPLICATES=$(jq -r '.merchants[].domain' merchants.json | sort | uniq -d)
+          if [ -n "$DUPLICATES" ]; then
+            echo "Error: Duplicate domains found:"
+            echo "$DUPLICATES"
+            exit 1
+          fi
+          echo "No duplicate domains found."
+
+      - name: Validate domain format
+        run: |
+          INVALID=$(jq -r '.merchants[].domain' merchants.json | grep -E '^https?://' || true)
+          if [ -n "$INVALID" ]; then
+            echo "Error: Domains should not include protocol:"
+            echo "$INVALID"
+            exit 1
+          fi
+          echo "All domains are valid format."
+
+      - name: Count merchants
+        run: |
+          COUNT=$(jq '.merchants | length' merchants.json)
+          echo "Total merchants: $COUNT"

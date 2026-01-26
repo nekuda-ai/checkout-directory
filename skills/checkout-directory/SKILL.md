@@ -1,8 +1,6 @@
 ---
-name: checkout.directory
-description: Discover merchants supporting agentic commerce protocols (UCP, ACP)
-author: nekuda
-version: 1.0.0
+name: checkout-directory
+description: Discover merchants supporting agentic commerce protocols (UCP, ACP). Use when users want to buy products online, find merchants by category, check UCP/ACP protocol support, or get merchant API endpoints for programmatic checkout.
 ---
 
 # Checkout Directory Skill

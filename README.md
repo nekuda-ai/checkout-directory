@@ -29,7 +29,7 @@ curl https://checkout.directory/api/merchants/allbirds.com/manifest
 ### Using skills.sh
 
 ```bash
-npx skills add nekuda/checkout.directory
+npx skills add nekuda-ai/checkout-directory
 ```
 
 This installs the checkout.directory skill, teaching your agent how to discover and interact with merchants.

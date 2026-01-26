@@ -45,12 +45,6 @@
       "protocols": ["ucp"]
     },
     {
-      "domain": "fashionnova.com",
-      "name": "Fashion Nova",
-      "category": "Fashion",
-      "protocols": ["ucp"]
-    },
-    {
       "domain": "kyliecosmetics.com",
       "name": "Kylie Cosmetics",
       "category": "Beauty",
@@ -93,12 +87,6 @@
       "protocols": ["ucp"]
     },
     {
-      "domain": "chubbiesshorts.com",
-      "name": "Chubbies",
-      "category": "Apparel",
-      "protocols": ["ucp"]
-    },
-    {
       "domain": "brooklinen.com",
       "name": "Brooklinen",
       "category": "Home/Bedding",
@@ -126,12 +114,6 @@
       "domain": "dollarshaveclub.com",
       "name": "Dollar Shave Club",
       "category": "Grooming",
-      "protocols": ["ucp"]
-    },
-    {
-      "domain": "bollandbranch.com",
-      "name": "Boll & Branch",
-      "category": "Home/Bedding",
       "protocols": ["ucp"]
     }
   ]

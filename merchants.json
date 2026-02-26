@@ -267,12 +267,6 @@
       "protocols": ["ucp"]
     },
     {
-      "domain": "apt2b.com",
-      "name": "Apt2B",
-      "category": "Home/Furniture",
-      "protocols": ["ucp"]
-    },
-    {
       "domain": "decathlon.com",
       "name": "Decathlon",
       "category": "Sports/Outdoors",

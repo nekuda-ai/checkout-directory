@@ -301,6 +301,12 @@
       "name": "ColourPop",
       "category": "Beauty",
       "protocols": ["ucp"]
+    },
+    {
+      "domain": "bollandbranch.com",
+      "name": "Boll & Branch",
+      "category": "Home/Bedding",
+      "protocols": ["ucp"]
     }
   ]
 }

@@ -115,6 +115,198 @@
       "name": "Dollar Shave Club",
       "category": "Grooming",
       "protocols": ["ucp"]
+    },
+    {
+      "domain": "pier1.com",
+      "name": "Pier 1",
+      "category": "Home/Furniture",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "untuckit.com",
+      "name": "UNTUCKit",
+      "category": "Fashion",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "nothing.tech",
+      "name": "Nothing",
+      "category": "Electronics",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "fashionnova.com",
+      "name": "Fashion Nova",
+      "category": "Fashion",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "fentybeauty.com",
+      "name": "Fenty Beauty",
+      "category": "Beauty",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "ripcurl.com",
+      "name": "Rip Curl",
+      "category": "Activewear",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "quiksilver.com",
+      "name": "Quiksilver",
+      "category": "Activewear",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "billabong.com",
+      "name": "Billabong",
+      "category": "Activewear",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "kelty.com",
+      "name": "Kelty",
+      "category": "Outdoor Gear",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "statelymen.com",
+      "name": "Stately Men",
+      "category": "Fashion",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "forever21.com",
+      "name": "Forever 21",
+      "category": "Fashion",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "mejuri.com",
+      "name": "Mejuri",
+      "category": "Accessories",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "harrys.com",
+      "name": "Harry's",
+      "category": "Grooming",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "olaplex.com",
+      "name": "Olaplex",
+      "category": "Beauty",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "moroccanoil.com",
+      "name": "Moroccanoil",
+      "category": "Beauty",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "nativecos.com",
+      "name": "Native",
+      "category": "Beauty",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "peachandlily.com",
+      "name": "Peach & Lily",
+      "category": "Beauty",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "thebodyshop.com",
+      "name": "The Body Shop",
+      "category": "Beauty",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "tuftandneedle.com",
+      "name": "Tuft & Needle",
+      "category": "Mattresses",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "publicgoods.com",
+      "name": "Public Goods",
+      "category": "Household",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "skims.com",
+      "name": "SKIMS",
+      "category": "Fashion",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "rothys.com",
+      "name": "Rothy's",
+      "category": "Footwear",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "chubbiesshorts.com",
+      "name": "Chubbies",
+      "category": "Fashion",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "sokoglam.com",
+      "name": "Soko Glam",
+      "category": "Beauty",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "burrow.com",
+      "name": "Burrow",
+      "category": "Home/Furniture",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "apt2b.com",
+      "name": "Apt2B",
+      "category": "Home/Furniture",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "decathlon.com",
+      "name": "Decathlon",
+      "category": "Sports/Outdoors",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "tonal.com",
+      "name": "Tonal",
+      "category": "Fitness Equipment",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "mattel.com",
+      "name": "Mattel",
+      "category": "Toys",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "primary.com",
+      "name": "Primary",
+      "category": "Baby/Children",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "grove.co",
+      "name": "Grove Collaborative",
+      "category": "Household",
+      "protocols": ["ucp"]
+    },
+    {
+      "domain": "colourpop.com",
+      "name": "ColourPop",
+      "category": "Beauty",
+      "protocols": ["ucp"]
     }
   ]
 }

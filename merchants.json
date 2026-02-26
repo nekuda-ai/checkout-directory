@@ -3,306 +3,357 @@
   "version": "1.0.0",
   "merchants": [
     {
+      "id": 1,
       "domain": "monos.com",
       "name": "Monos",
       "category": "Travel/Luggage",
       "protocols": ["ucp"]
     },
     {
+      "id": 2,
       "domain": "gymshark.com",
       "name": "Gymshark",
       "category": "Fitness Apparel",
       "protocols": ["ucp"]
     },
     {
+      "id": 3,
       "domain": "keenfootwear.com",
       "name": "KEEN",
       "category": "Footwear",
       "protocols": ["ucp"]
     },
     {
+      "id": 4,
       "domain": "puravidabracelets.com",
       "name": "Pura Vida",
       "category": "Accessories",
       "protocols": ["ucp"]
     },
     {
+      "id": 5,
       "domain": "everlane.com",
       "name": "Everlane",
       "category": "Fashion",
       "protocols": ["ucp"]
     },
     {
+      "id": 6,
       "domain": "kytebaby.com",
       "name": "Kyte Baby",
       "category": "Baby/Children",
       "protocols": ["ucp"]
     },
     {
+      "id": 7,
       "domain": "allbirds.com",
       "name": "Allbirds",
       "category": "Footwear",
       "protocols": ["ucp"]
     },
     {
+      "id": 8,
       "domain": "kyliecosmetics.com",
       "name": "Kylie Cosmetics",
       "category": "Beauty",
       "protocols": ["ucp"]
     },
     {
+      "id": 9,
       "domain": "jeffreestarcosmetics.com",
       "name": "Jeffree Star Cosmetics",
       "category": "Beauty",
       "protocols": ["ucp"]
     },
     {
+      "id": 10,
       "domain": "stevemadden.com",
       "name": "Steve Madden",
       "category": "Footwear",
       "protocols": ["ucp"]
     },
     {
+      "id": 11,
       "domain": "glossier.com",
       "name": "Glossier",
       "category": "Beauty",
       "protocols": ["ucp"]
     },
     {
+      "id": 12,
       "domain": "aloyoga.com",
       "name": "Alo Yoga",
       "category": "Activewear",
       "protocols": ["ucp"]
     },
     {
+      "id": 13,
       "domain": "fender.com",
       "name": "Fender",
       "category": "Music/Instruments",
       "protocols": ["ucp"]
     },
     {
+      "id": 14,
       "domain": "rayconglobal.com",
       "name": "Raycon",
       "category": "Audio",
       "protocols": ["ucp"]
     },
     {
+      "id": 15,
       "domain": "brooklinen.com",
       "name": "Brooklinen",
       "category": "Home/Bedding",
       "protocols": ["ucp"]
     },
     {
+      "id": 16,
       "domain": "awaytravel.com",
       "name": "Away",
       "category": "Travel/Luggage",
       "protocols": ["ucp"]
     },
     {
+      "id": 17,
       "domain": "outdoorvoices.com",
       "name": "Outdoor Voices",
       "category": "Activewear",
       "protocols": ["ucp"]
     },
     {
+      "id": 18,
       "domain": "casper.com",
       "name": "Casper",
       "category": "Mattresses",
       "protocols": ["ucp"]
     },
     {
+      "id": 19,
       "domain": "dollarshaveclub.com",
       "name": "Dollar Shave Club",
       "category": "Grooming",
       "protocols": ["ucp"]
     },
     {
+      "id": 20,
       "domain": "pier1.com",
       "name": "Pier 1",
       "category": "Home/Furniture",
       "protocols": ["ucp"]
     },
     {
+      "id": 21,
       "domain": "untuckit.com",
       "name": "UNTUCKit",
       "category": "Fashion",
       "protocols": ["ucp"]
     },
     {
+      "id": 22,
       "domain": "nothing.tech",
       "name": "Nothing",
       "category": "Electronics",
       "protocols": ["ucp"]
     },
     {
+      "id": 23,
       "domain": "fashionnova.com",
       "name": "Fashion Nova",
       "category": "Fashion",
       "protocols": ["ucp"]
     },
     {
+      "id": 24,
       "domain": "fentybeauty.com",
       "name": "Fenty Beauty",
       "category": "Beauty",
       "protocols": ["ucp"]
     },
     {
+      "id": 25,
       "domain": "ripcurl.com",
       "name": "Rip Curl",
       "category": "Activewear",
       "protocols": ["ucp"]
     },
     {
+      "id": 26,
       "domain": "quiksilver.com",
       "name": "Quiksilver",
       "category": "Activewear",
       "protocols": ["ucp"]
     },
     {
+      "id": 27,
       "domain": "billabong.com",
       "name": "Billabong",
       "category": "Activewear",
       "protocols": ["ucp"]
     },
     {
+      "id": 28,
       "domain": "kelty.com",
       "name": "Kelty",
       "category": "Outdoor Gear",
       "protocols": ["ucp"]
     },
     {
+      "id": 29,
       "domain": "statelymen.com",
       "name": "Stately Men",
       "category": "Fashion",
       "protocols": ["ucp"]
     },
     {
+      "id": 30,
       "domain": "forever21.com",
       "name": "Forever 21",
       "category": "Fashion",
       "protocols": ["ucp"]
     },
     {
+      "id": 31,
       "domain": "mejuri.com",
       "name": "Mejuri",
       "category": "Accessories",
       "protocols": ["ucp"]
     },
     {
+      "id": 32,
       "domain": "harrys.com",
       "name": "Harry's",
       "category": "Grooming",
       "protocols": ["ucp"]
     },
     {
+      "id": 33,
       "domain": "olaplex.com",
       "name": "Olaplex",
       "category": "Beauty",
       "protocols": ["ucp"]
     },
     {
+      "id": 34,
       "domain": "moroccanoil.com",
       "name": "Moroccanoil",
       "category": "Beauty",
       "protocols": ["ucp"]
     },
     {
+      "id": 35,
       "domain": "nativecos.com",
       "name": "Native",
       "category": "Beauty",
       "protocols": ["ucp"]
     },
     {
+      "id": 36,
       "domain": "peachandlily.com",
       "name": "Peach & Lily",
       "category": "Beauty",
       "protocols": ["ucp"]
     },
     {
+      "id": 37,
       "domain": "thebodyshop.com",
       "name": "The Body Shop",
       "category": "Beauty",
       "protocols": ["ucp"]
     },
     {
+      "id": 38,
       "domain": "tuftandneedle.com",
       "name": "Tuft & Needle",
       "category": "Mattresses",
       "protocols": ["ucp"]
     },
     {
+      "id": 39,
       "domain": "publicgoods.com",
       "name": "Public Goods",
       "category": "Household",
       "protocols": ["ucp"]
     },
     {
+      "id": 40,
       "domain": "skims.com",
       "name": "SKIMS",
       "category": "Fashion",
       "protocols": ["ucp"]
     },
     {
+      "id": 41,
       "domain": "rothys.com",
       "name": "Rothy's",
       "category": "Footwear",
       "protocols": ["ucp"]
     },
     {
+      "id": 42,
       "domain": "chubbiesshorts.com",
       "name": "Chubbies",
       "category": "Fashion",
       "protocols": ["ucp"]
     },
     {
+      "id": 43,
       "domain": "sokoglam.com",
       "name": "Soko Glam",
       "category": "Beauty",
       "protocols": ["ucp"]
     },
     {
+      "id": 44,
       "domain": "burrow.com",
       "name": "Burrow",
       "category": "Home/Furniture",
       "protocols": ["ucp"]
     },
     {
+      "id": 45,
       "domain": "decathlon.com",
       "name": "Decathlon",
       "category": "Sports/Outdoors",
       "protocols": ["ucp"]
     },
     {
+      "id": 46,
       "domain": "tonal.com",
       "name": "Tonal",
       "category": "Fitness Equipment",
       "protocols": ["ucp"]
     },
     {
+      "id": 47,
       "domain": "mattel.com",
       "name": "Mattel",
       "category": "Toys",
       "protocols": ["ucp"]
     },
     {
+      "id": 48,
       "domain": "primary.com",
       "name": "Primary",
       "category": "Baby/Children",
       "protocols": ["ucp"]
     },
     {
+      "id": 49,
       "domain": "grove.co",
       "name": "Grove Collaborative",
       "category": "Household",
       "protocols": ["ucp"]
     },
     {
+      "id": 50,
       "domain": "colourpop.com",
       "name": "ColourPop",
       "category": "Beauty",
       "protocols": ["ucp"]
     },
     {
+      "id": 51,
       "domain": "bollandbranch.com",
       "name": "Boll & Branch",
       "category": "Home/Bedding",
